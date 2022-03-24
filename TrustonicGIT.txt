@@ -2,4 +2,7 @@ Hi All,
 
 We are creating a text file for trustonicGIT
 
+creating a text file for Wiki
+creating a text file for Zendesk 
+creating a text file for change request 
 
